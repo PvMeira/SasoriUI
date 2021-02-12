@@ -1,7 +1,7 @@
 import { lighten, darken } from "polished";
 
 const systemColor = {
-  primary: "#00b28e",
+  primary: "#0f99be",
   secondary: "#c64840",
 };
 
@@ -48,6 +48,8 @@ const colors = {
   transparent: "transparent",
   error: "#c64840",
   borderDefault: "#afdedc",
+
+  titlePage: '#333333',
 };
 
 export default colors;
